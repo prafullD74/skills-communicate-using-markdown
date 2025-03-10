@@ -7,3 +7,7 @@ Communicate using Markdown
 ###### H6 
 ![Image of Chhatrapati Shivaji Maharaj](https://wallpapercave.com/wp/wp5589809.jpg)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+print('Hello, world!')
+```
